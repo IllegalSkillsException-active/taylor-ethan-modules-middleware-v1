@@ -1,6 +1,6 @@
 const express = require('express');
 // you'll need to use `queryString` in your `gateKeeper` middleware function
-const queryString = require('query-string');
+
 
 
 const app = express();
